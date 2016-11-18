@@ -1,0 +1,23 @@
+{
+  "name": "header-parser-microservice",
+  "version": "1.0.0",
+  "description": "FCC-header-parser-microservice",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanduc95/FCC-header-parser-microservice.git"
+  },
+  "author": "vanduc95",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanduc95/FCC-header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/vanduc95/FCC-header-parser-microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
